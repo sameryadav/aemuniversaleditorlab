@@ -5,6 +5,7 @@
     "/content/aemuniversaleditorlab/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aemuniversaleditorlab/"
+    "/content/aemuniversaleditorlab/",
+    "/content/dam/aemuniversaleditorlab/"
   ]
 }

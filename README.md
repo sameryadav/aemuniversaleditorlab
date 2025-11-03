@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+This project was for AEM Universal Editor
 
 ## Environments
 - Preview: https://main--aemuniversaleditorlab--sameryadav.aem.page/

@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p25321-e288205.adobeaemcloud.com/bin/franklin.delivery/sameryadav/aemuniversaleditorlab/main"
+    url: "https://author-p8661-e624335.adobeaemcloud.com/bin/franklin.delivery/sameryadav/aemuniversaleditorlab/main"
     type: "markup"
     suffix: ".html"
